@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/pedra/Documents/GitHub/cartaodevisitas/app/src/main/res/drawable/ic_add.xml" value="0.1935" />
+        <entry key="..\:/Users/pedra/Documents/GitHub/cartaodevisitas/app/src/main/res/layout/activity_addbussinescard.xml" value="0.358695652173913" />
         <entry key="..\:/Users/pedra/Documents/GitHub/cartaodevisitas/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Users/pedra/Documents/GitHub/cartaodevisitas/app/src/main/res/layout/itembussines_card.xml" value="0.3877995642701525" />
       </map>
     </option>
   </component>
